@@ -32,7 +32,6 @@ using their:
 | File | Description |
 |------|-------------|
 | `Day_1_Iris_Classification.ipynb` | Jupyter Notebook containing full code, step-by-step |
-| `requirements.txt` | Python libraries used in the project |
 | `README.md` | Project overview and explanation |
 
 ---
